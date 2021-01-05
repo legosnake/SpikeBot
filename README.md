@@ -19,7 +19,7 @@ Spike also adds **a new mention** like @everyone and @here, the `@someone`, whic
 
 ### Many commands
 
-Atlanta has a lot of features, with **7 main categories**:
+Spike has a lot of features, with **7 main categories**:
 
 *   👩‍💼 **Administration**: `slowmode`, `welcome`, `addcommand`, `automod`, `backup` and **11** more! 
 *   🚓 **Moderation**: `see-warns`, `setlogs`, `checkinvites`, `poll`, and **6** more! 
