@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Shows Spike's Github repository information!",
+    "USAGE": "{{prefix}}github",
+    "EXAMPLES": "{{prefix}}github",
+    "CLICK_HERE": "Click here to access the github of Spike",
+    "LANGUAGE": "Programming language",
+    "OWNER": "Spike's repository owner"
+}
