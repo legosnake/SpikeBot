@@ -33,9 +33,11 @@ You can see the full commands by doing `@spike Help` on any server Spike's in!
 
 ## Installation
 
+Coming soon!
+
 ### Non-customized version
 
-If you don't want to edit the code of the bot, a permanent online version is available, which you can invite to your own Discord!   
+At this time, there is only the public release, we do not allow self hosting but plan to in the future. Please invite Spike below if you wish to use it.
 
 [Invite Spike Here!](https://discord.com/api/oauth2/authorize?client_id=784206699933859871&permissions=8&scope=bot)
 
