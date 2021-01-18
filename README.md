@@ -5,7 +5,9 @@ Spike is a open source Discord bot coded in JavaScript with [Discord.js](https:/
 Feel free to add a star ⭐ to the repository to promote the project!
 
 [![CodeFactor](https://www.codefactor.io/repository/github/legosnake/spikebot/badge)](https://www.codefactor.io/repository/github/legosnake/spikebot)
-[![Discord Bots](https://top.gg/api/widget/784206699933859871.svg)](https://top.gg/bot/784206699933859871)
+[![Discord Bots](https://top.gg/api/widget/status/784206699933859871.svg?noavatar=true)](https://top.gg/bot/784206699933859871)
+[![Discord Bots](https://top.gg/api/widget/servers/784206699933859871.svg?noavatar=true)](https://top.gg/bot/784206699933859871)
+[![Discord Bots](https://top.gg/api/widget/upvotes/784206699933859871.svg?noavatar=true)](https://top.gg/bot/784206699933859871)
 
 ## Features
 
@@ -36,7 +38,7 @@ You can see the full commands by doing `@spike Help` on any server Spike's in!
 
 ## Installation
 
-Docs coming very soon!
+[Find our Docs here!](https://docs.netlabstudios.com)
 
 ### Non-customized version
 
@@ -44,9 +46,6 @@ At this time, there is only the public release, we do not allow self hosting but
 
 [Invite Spike Here!](https://discord.com/api/oauth2/authorize?client_id=784206699933859871&permissions=8&scope=bot)
 
-### Customized version
-
-Unfortunately, at this time, there is no way to Self-host Spike. I am planning to eventually allow this but as of now, it's not allowed. Sorry!
 
 ## Copyright
 
