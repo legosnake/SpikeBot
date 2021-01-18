@@ -4,6 +4,9 @@
 Spike is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) and [Mongoose](https://mongoosejs.com/docs/api.html) by [LegoSnake](https://github.com/LegoSnake).  
 Feel free to add a star ⭐ to the repository to promote the project!
 
+[![CodeFactor](https://www.codefactor.io/repository/github/legosnake/spikebot/badge)](https://www.codefactor.io/repository/github/legosnake/spikebot)
+[![Discord Bots](https://top.gg/api/widget/784206699933859871.svg)](https://top.gg/bot/784206699933859871)
+
 ## Features
 
 ### Complete Bot
@@ -33,7 +36,7 @@ You can see the full commands by doing `@spike Help` on any server Spike's in!
 
 ## Installation
 
-Coming soon!
+Docs coming very soon!
 
 ### Non-customized version
 
