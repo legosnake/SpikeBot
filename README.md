@@ -38,7 +38,7 @@ You can see the full commands by doing `@spike Help` on any server Spike's in!
 
 ## Installation
 
-[Find our Docs here!](https://docs.netlabstudios.com)
+[Find our Docs here!](https://docs.spike-bot.xyz)
 
 ### Non-customized version
 
