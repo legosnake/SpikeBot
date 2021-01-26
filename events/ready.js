@@ -47,7 +47,7 @@ module.exports = class {
 		}, 20000); // Every 20 seconds
 
 		setTimeout(() => {
-			console.log(chalk.magenta("\n\nLike this bot?"), "Support us by adding a star on GitHub ❤️   https://github.com/Androz2091/SpikeBot");
+			console.log(chalk.magenta("\n\nLike this bot?"), "Support us by adding a star on GitHub ❤️   https://github.com/legosnake/SpikeBot");
 		}, 400);
 
 	}
