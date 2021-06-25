@@ -15,7 +15,7 @@ Feel free to add a star ⭐ to the repository to promote the project!
 
 Spike offers (non-exhaustive list):
 *   ✉️ Support for commands in direct messages
-*   🇫🇷 Support for translations (illimited languages)
+*   🇫🇷 Support for translations (limited languages)
 *   ⚙️ Guild configuration (prefix, ignored channels, etc...)
 *   😀 Commands made pleasant thanks to the many emojis
 *   🗳️ Support for Discordbots.org votes with rewards
@@ -38,17 +38,9 @@ You can see the full commands by doing `@spike Help` on any server Spike's in!
 
 ## Installation
 
-[Find our Docs here!](https://docs.spike-bot.xyz)
+At this time, there is only the public release, we do not allow self hosting but plan to in the future. Please invite Spike below if you wish to use it.
 
 ### Non-customized version
 
-At this time, there is only the public release, we do not allow self hosting but plan to in the future. Please invite Spike below if you wish to use it.
-
 [Invite Spike Here!](https://discord.com/api/oauth2/authorize?client_id=784206699933859871&permissions=8&scope=bot)
 
-
-## Copyright
-
-Spike Bot | © 2021 - NetLab Studios. All rights reserved.
-
-All original content submitted along with this work registration is created by the work owner or published under permission including but not limited to text, design, code, images, photographs and videos are considered to be the Intellectual Property of the work owner and are protected by copyrighted.com using the Digital Millennium Copyright Act Title 17 Chapter 512 (c)(3). Reproduction or re-publication of this content is prohibited without permission. 
